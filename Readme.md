@@ -1,4 +1,4 @@
-Run the project
+**Steps to Run the project**
 
 Step 0: Get the project to local and get inside the folder
 
@@ -9,7 +9,9 @@ Step 2: Run command 'java -jar build/libs/cartisian-plane-0.0.1-SNAPSHOT.jar' to
 Step 3: Open browser and open the swagger link 'http://localhost:8080/swagger-ui/'
 
 
-We have below API's for all the scenarios given
+
+
+**We have below API's for all the scenarios given**
 1. Definition of a line by means of two points, where (x1,y1) and (x2,y2) are two points
    * API GET /line-equation-by-two-points/{x1}/{y1}/{x2}/{y2}
 
