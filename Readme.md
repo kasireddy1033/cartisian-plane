@@ -21,7 +21,7 @@ Step 3: Open browser and open the swagger link 'http://localhost:8080/swagger-ui
 
 
 3. Condition of parallelism of two lines, where line1 passes through (x1,y1)&(x2,y2) and line2 passes through (x3,y3)&(x4,y4)
-   * API GET /lines-are-parallel​/{x1}​/{y1}​/{x2}​/{y2}​/{x3}​/{y3}​/{x4}​/{y4}
+   * API GET /lines-are-parallel/{x1}/{y1}/{x2}/{y2}/{x3}/{y3}/{x4}/{y4}
 
 
 4. Condition of perpendicularity of two lines, where line1 passes through (x1,y1)&(x2,y2) and line2 passes through (x3,y3)&(x4,y4)
